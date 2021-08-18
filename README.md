@@ -1,4 +1,7 @@
-
+<div align="center">
+<img src="https://i.ibb.co/J5DPbD0/Joyce-w-Banner.png" align="center" style="width: 100%" />
+</div>  
+  
   
 
 ### <div align="center">I'm Joyce, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
