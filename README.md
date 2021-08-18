@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React and Agile.  
   
 
-- ❓ Ask me about anything related to React, flexbox, dogs, OR anything really. 😛  
+- ❓ Ask me about anything related to React, flexbox, traveling, dogs, OR anything really. 😛  
   
 
 - ⚡ Fun fact: I release a ridiculous amount of serotonin when I see cute dogs and animals. 🐶  
