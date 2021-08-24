@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to React, flexbox, traveling, dogs, OR anything really. 😛  
   
 
-- ⚡ Fun fact: I release a ridiculous amount of serotonin when I see cute dogs and animals. 🐶  
+- ⚡ Fun fact: I release a ridiculous amount of dopamine when I see cute dogs and animals. 🐶  
   
 
 <br/>  
