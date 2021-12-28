@@ -4,7 +4,7 @@
   
   
 
-### <div align="center">I'm Joyce, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Joyce, a full-time full-stack engineer since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on Big Two, a card game that incorporates socket.io to allow for real time game play.  
