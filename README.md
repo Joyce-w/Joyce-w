@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Big Two, a card game that incorporates socket.io to allow for real time game play.  
   
 
-- 🌱 I’m currently learning React and Agile.  
+- 🌱 I’m currently learning Go.  
   
 
 - ❓ Ask me about anything related to React, flexbox, traveling, dogs, OR anything really. 😛  
