@@ -5,19 +5,7 @@
   
 
 ### <div align="center">I'm Joyce, a full-time full-stack engineer since 2020 🚀</div>  
-  
 
-- 🔭 I’m currently working on Big Two, a card game that incorporates socket.io to allow for real time game play.  
-  
-
-- 🌱 I’m currently learning Go.  
-  
-
-- ❓ Ask me about anything related to React, flexbox, traveling, dogs, OR anything really. 😛  
-  
-
-- ⚡ Fun fact: I release a ridiculous amount of dopamine when I see cute dogs and animals. 🐶  
-  
 
 <br/>  
 
